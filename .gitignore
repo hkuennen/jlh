@@ -1,0 +1,15 @@
+dist
+package-lock.json
+pnpm-lock.yaml
+
+# Environment
+.env
+
+# dependencies
+/node_modules
+
+# Temp
+gitignore
+
+# System Files
+.DS_Store
