@@ -1,5 +1,5 @@
 {
-  "name": "vite-template-solid",
+  "name": "jlh",
   "version": "0.0.0",
   "description": "",
   "type": "module",
@@ -11,7 +11,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.7.2",
+    "@eslint/js": "^9.28.0",
+    "eslint": "^9.28.0",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-solid": "^0.14.5",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.33.1",
     "vite": "^6.0.0",
     "vite-plugin-solid": "^2.11.6"
   },
